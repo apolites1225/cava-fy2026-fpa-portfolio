@@ -2,6 +2,14 @@
 
 A quarterly, restaurant-level forecast model for CAVA Group. The model reconstructs FY2025 performance from public filings, checks it against CAVA's original guidance, and builds a Low / Base / High FY2026 forecast from that base.
 
+![KPI Dashboard](images/kpi_dashboard.png)
+
+## Executive Summary
+
+CAVA missed FY2025 same-restaurant sales growth guidance by up to 4 points — actual came in at 4.0% against a 6.0-8.0% guided range. Restaurant-level margin also landed just below guidance (24.4% actual vs. 24.8-25.2% guided), and pre-opening costs ran $4.1-5.1M over the guided range as the company leaned into unit growth.
+
+That unit growth is what offset the shortfall: net new openings beat guidance (72 actual vs. 62-66 guided), and the added volume was enough to land Adjusted EBITDA within the original guidance range ($152.8M actual vs. $150.0-157.0M guided) despite the comp-sales miss. The FY2026 forecast in this workbook builds forward from that base, modeling Low / Base / High scenarios for same-restaurant sales growth, new unit openings, revenue, COGS, and labor.
+
 **Scope note:** This analysis is intentionally scoped to information available as of CAVA's FY2025 year-end close (February 24, 2026). Subsequent disclosures — including Q1 FY2026 results and updated guidance issued May 19, 2026 — are out of scope by design, consistent with treating this as a point-in-time year-end review.
 
 ## File
