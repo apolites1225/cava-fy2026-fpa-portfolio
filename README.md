@@ -1,6 +1,6 @@
 # CAVA FY2026 FP&A Portfolio Package
 
-A quarterly, restaurant-level forecast model for CAVA Group, built as a final project for a Data Analytics & Analysis (DAA) course. The model reconstructs FY2025 performance from public filings, checks it against CAVA's original guidance, and builds a Low / Base / High FY2026 forecast from that base.
+A quarterly, restaurant-level forecast model for CAVA Group. The model reconstructs FY2025 performance from public filings, checks it against CAVA's original guidance, and builds a Low / Base / High FY2026 forecast from that base.
 
 **Scope note:** This analysis is intentionally scoped to information available as of CAVA's FY2025 year-end close (February 24, 2026). Subsequent disclosures — including Q1 FY2026 results and updated guidance issued May 19, 2026 — are out of scope by design, consistent with treating this as a point-in-time year-end review.
 
