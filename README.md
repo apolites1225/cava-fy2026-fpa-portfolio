@@ -2,9 +2,7 @@
 
 ![KPI Dashboard](images/kpi_dashboard.png)
 
-<video src="https://raw.githubusercontent.com/apolites1225/cava-fy2026-fpa-portfolio/main/media/cava_walkthrough_compressed.mp4" controls width="700">
-  Video walkthrough of the model — if it doesn't render, watch it directly: media/cava_walkthrough_compressed.mp4
-</video>
+📹 **[Watch the video walkthrough](media/cava_walkthrough_compressed.mp4)** of the model (opens GitHub's built-in video player).
 
 ## Why I built this
 
