@@ -4,7 +4,7 @@
 
 ![KPI Dashboard](images/kpi_dashboard.png)
 
-📹 **[Watch the video walkthrough](media/cava_walkthrough_compressed.mp4)** of the model (opens GitHub's built-in video player; click "View raw" if it doesn't preview inline).
+📹 **[Watch a short video intro](media/cava_walkthrough_compressed.mp4)** covering the FY2025 guidance-vs-actual headline finding (opens GitHub's built-in video player; click "View raw" if it doesn't preview inline). It's a 3-minute overview, not a full tab-by-tab walkthrough — the segment-basis reconciliation and dual FY2026 forecast are covered in the write-up below.
 
 ## Executive Summary
 
